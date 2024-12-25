@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run SDL2 Project",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/main.exe", // Windows 可执行文件
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\software\\mingw\\w64devkit\\bin\\gdb.exe", // 如果是 MinGW，填入 gdb.exe 的路径
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

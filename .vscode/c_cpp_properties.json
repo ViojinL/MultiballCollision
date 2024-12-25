@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/SDL2/include",
+                "${workspaceFolder}/include/SDL2/include/SDL2",
+                "${workspaceFolder}/include/SDL2_ttf/include/SDL2"
+            ],
+            "defines": [],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:\\software\\mingw\\w64devkit\\bin\\g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
