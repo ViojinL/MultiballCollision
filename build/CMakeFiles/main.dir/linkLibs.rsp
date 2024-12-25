@@ -1,0 +1,1 @@
+  -LC:/software/vscode/code/c++/MultiballCollision/include/SDL2/lib  -LC:/software/vscode/code/c++/MultiballCollision/include/SDL2_ttf/lib  -LC:/software/vscode/code/c++/MultiballCollision/include/SDL2_image/lib  -lSDL2 -lSDL2main -lSDL2_ttf -lSDL2_image -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

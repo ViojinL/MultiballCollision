@@ -1,0 +1,3 @@
+C:/software/vscode/code/c++/MultiballCollision/build/CMakeFiles/main.dir
+C:/software/vscode/code/c++/MultiballCollision/build/CMakeFiles/edit_cache.dir
+C:/software/vscode/code/c++/MultiballCollision/build/CMakeFiles/rebuild_cache.dir
